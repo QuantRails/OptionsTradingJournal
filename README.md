@@ -232,7 +232,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 
 ## 👨‍💻 Author
 
-**Timothy McMahon**  
+(c) **Timothy McMahon**  
 Professional Day Trading Dashboard & Journal System
 
 ## 🙏 Acknowledgments
