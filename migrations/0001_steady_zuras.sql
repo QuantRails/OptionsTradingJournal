@@ -1,0 +1,1 @@
+ALTER TABLE "premarket_analysis" ADD COLUMN "spy_analysis" text;
