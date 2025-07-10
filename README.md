@@ -226,13 +226,13 @@ The application supports both PostgreSQL and in-memory storage:
 
 ## 📄 License
 
-Copyright (c) 2025 Timothy McMahon. This project is licensed under CC BY-NC 4.0. Commercial use requires separate licensing - contact Timothy McMahon for details.
+Copyright (c) QuantRails. This project is licensed under CC BY-NC 4.0. Commercial use requires separate licensing - contact creator for licensing.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE) file for full details.
 
 ## 👨‍💻 Author
 
-(c) **Timothy McMahon**  
+Copyright (c) 2025 QuantRails. This project is licensed under CC BY-NC 4.0.
 Professional Day Trading Dashboard & Journal System
 
 ## 🙏 Acknowledgments
