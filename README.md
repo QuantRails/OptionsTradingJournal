@@ -1,6 +1,8 @@
 # QuantRails Trading Journal
 
-A comprehensive professional-grade day trading dashboard and journal application built with React, TypeScript, and Express. Features real-time performance tracking, strategy management, trade analysis, and professional reporting capabilities.
+A comprehensive options trading journal application built with React, TypeScript, and Express. Features real-time performance tracking, strategy management, trade analysis, and professional reporting capabilities.
+
+<img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/3c5304ea-95f3-4bcb-80f9-2c5d15fc4a3c" />
 
 ## 🚀 Features
 
@@ -246,4 +248,4 @@ For support or commercial licensing inquiries, contact Timothy McMahon or open a
 
 ---
 
-**Note**: This is a professional trading journal application. Always consult with a qualified tax professional for advice on Mark-to-Market trader status and tax implications.
+**Note**: This is a project trading journal application. Always consult with a qualified tax professional for advice on Mark-to-Market trader status and tax implications.
