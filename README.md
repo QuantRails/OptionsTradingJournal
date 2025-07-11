@@ -244,7 +244,7 @@ Professional Day Trading Dashboard & Journal System
 
 ## 📞 Support
 
-For support or commercial licensing inquiries, contact Timothy McMahon or open an issue on GitHub.
+For support or commercial licensing inquiries, contact tim@quantrails.io or open an issue on GitHub.
 
 ---
 
