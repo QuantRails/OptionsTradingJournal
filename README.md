@@ -1,5 +1,6 @@
 # QuantRails Trading Journal
 
+YouTube Video
 [![FREE Open Source Options Trading Journal 2025](https://img.youtube.com/vi/Ypfo3eybn6I/hqdefault.jpg)](https://www.youtube.com/watch?v=Ypfo3eybn6I)
 
 A comprehensive options trading journal application built with React, TypeScript, and Express. Features real-time performance tracking, strategy management, trade analysis, and professional reporting capabilities.
