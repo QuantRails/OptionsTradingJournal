@@ -247,8 +247,8 @@ Professional Day Trading Dashboard & Journal System
 
 ## 📞 Support
 
-For support or commercial licensing inquiries, contact tim@quantrails.io or open an issue on GitHub.
+For support or commercial licensing inquiries,open an issue on GitHub.
 
 ---
 
-**Note**: This is a project trading journal application. Always consult with a qualified tax professional for advice on Mark-to-Market trader status and tax implications.
+            **Note**: This is a project trading journal application. Always consult with a qualified tax professional for advice on Mark-to-Market trader status and tax implications.
